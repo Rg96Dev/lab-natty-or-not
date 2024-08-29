@@ -21,7 +21,7 @@ O podcast sobre o impacto da Inteligência Artificial (IA) na saúde foi desenvo
 ## 💭 Reflexão (Opcional)
 Este projeto me ajudou a explorar minha criatividade utilizando as IAs generativas. Durante o bootcamp, aprendi como um bom prompt pode facilitar o caminho até o objetivo final e como as IAs vieram para somar no desenvolvimento de novas tecnologias.
 
-[https://drive.google.com/file/d/11fW3jTfysJrzwTgRWtkoLG6Eussg3l-D/view?usp=sharing](Link para o  primeiro episódio)
+[Link para o  primeiro episódio](https://drive.google.com/file/d/11fW3jTfysJrzwTgRWtkoLG6Eussg3l-D/view?usp=sharing)
 
 ## Links Interessantes
 
